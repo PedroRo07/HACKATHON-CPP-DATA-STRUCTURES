@@ -1,7 +1,8 @@
 # hackaton-cpp
 
 grupo:
-Gustavo Ribeiro
-Miguel De souza
-Pedro Ró
-Renato Augusto
+Gustavo Ribeiro,
+Hygor Nobre,
+Miguel De souza,
+Pedro Ró,
+Renato Augusto.
